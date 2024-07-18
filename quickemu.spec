@@ -71,3 +71,4 @@ install -Dm644 docs/quickemu_conf.1 %{buildroot}%{_mandir}/man1/quickemu_conf.1
 %changelog
 * Wed Jul 17 2024 - Minzord <contact@minzord.fr> - 4.9.6-1
 - Initial package
+- Compatible with Fedora and RHEL
