@@ -1,6 +1,6 @@
 Name:			hypnotix
 Version:		4.6
-Release:		1%{?dist}
+Release:		2%{?dist}
 Summary:		An IPTV streaming application with support for live TV, movies and series.
 Summary(fr):	Application de streaming IPTV avec support pour la TV en direct, les films et les séries.
 
@@ -19,7 +19,7 @@ Requires:		python3-requests
 Requires:		python3-setproctitle
 Requires:		python3-unidecode
 Requires:       python3-cinemagoer
-Requires:		mpv
+Requires:		mpv-libs
 Requires:		xapps
 Requires:		yt-dlp
 
