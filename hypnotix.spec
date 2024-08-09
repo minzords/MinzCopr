@@ -18,7 +18,7 @@ Requires:		python3-gobject
 Requires:		python3-requests
 Requires:		python3-setproctitle
 Requires:		python3-unidecode
-Requires:       python3-cinemagoer
+Requires:		python3-cinemagoer
 Requires:		mpv-libs
 Requires:		xapps
 Requires:		yt-dlp
